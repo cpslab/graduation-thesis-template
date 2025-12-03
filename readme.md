@@ -7,6 +7,8 @@
 2. Overleafにコピー
 3. 書き始める
 
+Notionページのこれと中身は一緒 こっちはクローン&テンプレートからのリポジトリ複製用
+https://www.notion.so/cpslab/d593abfdef1341cd81fd96c41c5e2e90?source=copy_link#c1dba1eb7e234b39b5f5fccc871e3a95
 ----
 
 CPSLabでは、卒論の本論をLaTeX(ラテフ,テフ)で執筆することになっています。しかしLaTeXは論文らしい組版ができる反面で、以下の特徴を持ちます
